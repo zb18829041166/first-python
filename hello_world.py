@@ -19,3 +19,7 @@ print(a)
 #叫列表，不叫数组
 bicycles=['z','b']
 print(bicycles[0])
+motorcycles=['honda','yamaha','suzuki']
+motorcycles.insert(0,'ducati')
+print(motorcycles)
+
