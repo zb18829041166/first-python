@@ -23,3 +23,11 @@ motorcycles=['honda','yamaha','suzuki']
 motorcycles.insert(0,'ducati')
 print(motorcycles)
 
+margicians=['alice','david','carolina']
+for margician in margicians:
+    print(margician)
+
+
+
+
+
