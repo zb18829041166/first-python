@@ -26,8 +26,3 @@ print(motorcycles)
 margicians=['alice','david','carolina']
 for margician in margicians:
     print(margician)
-
-
-
-
-
