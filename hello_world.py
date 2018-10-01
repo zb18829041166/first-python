@@ -13,7 +13,7 @@ print(a)
 
 
 #age=23
-#print("my age is "+str(age))
+#print("my age is "+str(age))a
 
 #第一段python注释
 #叫列表，不叫数组
@@ -26,3 +26,6 @@ print(motorcycles)
 margicians=['alice','david','carolina']
 for margician in margicians:
     print(margician)
+
+age=18
+age>18
