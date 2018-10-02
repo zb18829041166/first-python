@@ -28,4 +28,4 @@ for margician in margicians:
     print(margician)
 
 age=18
-age>18
+print(age>18)
