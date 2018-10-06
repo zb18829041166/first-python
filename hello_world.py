@@ -30,9 +30,9 @@ for margician in margicians:
 age=18
 print(age>18)
 
-age_1=21 and age_2= 23
-age=1 or age=2
 
-as=[1 2 3]
-for a in as
-    print(a)
+
+
+
+alien_0={'color':'green'}
+print(alien_0['color'])
