@@ -36,3 +36,6 @@ print(age>18)
 
 alien_0={'color':'green'}
 print(alien_0['color'])
+
+del alien_0['color']
+print(alien_0)
