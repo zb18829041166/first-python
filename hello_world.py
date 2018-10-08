@@ -34,8 +34,11 @@ print(age>18)
 
 
 
-alien_0={'color':'green'}
-print(alien_0['color'])
 
-del alien_0['color']
-print(alien_0)
+
+
+alien_0={'color':'green',}
+
+for key, value in alien_0.items(): 
+    print("\nKey:"+key)
+    print("\nValue"+value)
