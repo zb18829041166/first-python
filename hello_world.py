@@ -42,3 +42,11 @@ alien_0={'color':'green',}
 for key, value in alien_0.items(): 
     print("\nKey:"+key)
     print("\nValue"+value)
+
+favorite_languages={
+    'zb':'js',
+    'zwf':'html'
+}
+
+for name in favorite_languages.keys():
+    print(name.title())
