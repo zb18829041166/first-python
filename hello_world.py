@@ -50,3 +50,6 @@ favorite_languages={
 
 for name in favorite_languages.keys():
     print(name.title())
+
+message = input("tell me your name")
+print(message)
