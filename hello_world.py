@@ -31,12 +31,6 @@ age=18
 print(age>18)
 
 
-
-
-
-
-
-
 alien_0={'color':'green',}
 
 for key, value in alien_0.items(): 
@@ -56,3 +50,8 @@ print(message)
 
 
 print(5%3)
+
+x=1
+while x<=5:
+    print(x)
+    x+=1
