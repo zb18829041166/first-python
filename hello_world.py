@@ -56,7 +56,7 @@ while x<=5:
     print(x)
     x+=1
 
-def greet_user(username):
+def greet_user(username="dog"):
     """显示简单的问候语"""
     print("hello!"+username.title())
-greet_user('zb')
+greet_user()
